@@ -1,7 +1,7 @@
 
-# Labe Commerce 11
+# Labe Commerce
 
-Projeto ecommerce Labenu, com filtros, carrinho....
+Projeto ecommerce, realizado durante o curso Labenu, com filtros, carrinho....
 
 
 ## 🔗 Links
